@@ -17,7 +17,7 @@
 
 - Python
 - Git and GitHub
-- HTML, CSS and Js
+- HTML, CSS and JS
 - Machine Learning Concepts
 
 ## 🚀 Looking Ahead
