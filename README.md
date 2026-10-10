@@ -34,5 +34,5 @@ More coming soon.
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/mohsan-javed-qureshi-7494453ba/)
-[Email](mohsanjaved519@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohsan-javed-qureshi-7494453ba/) <br>
+Email: mohsanjaved519@gmail.com
